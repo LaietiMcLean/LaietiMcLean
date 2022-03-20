@@ -7,7 +7,7 @@
 I am currently working on my carrer change as Front end Developer 👩🏻‍💻
 
 🚀Day after day I keep the desire of learning and there is just one thing that I know for sure: 
-I'm capable, skilled and dynamic 🧑🏼‍🚀
+I'm capable, energetic and skilled 🧑🏼‍🚀
 
 ### Something else...
 
