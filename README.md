@@ -14,3 +14,4 @@ I'm capable, skilled and dynamic 🧑🏼‍🚀
 😊I'm passionate about professional challenges and I never give up my goals!
 
 👍Check out my resume →  https://my-cv-react-alpha.vercel.app/
+✅LinkedIn → https://www.linkedin.com/in/laiamarcodelprado/
