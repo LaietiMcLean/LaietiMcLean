@@ -1,5 +1,5 @@
 # Hi there! It's Laia 👋
-![homepage](https://user-images.githubusercontent.com/92211599/159166943-841551d5-8b57-4242-8f2a-d8bc352138f0.png)
+![homepage2 copia](https://user-images.githubusercontent.com/92211599/159167383-2ebb27fd-e514-4b10-ab5d-158c8083e1fb.png)
 
 ## About me
 
