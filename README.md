@@ -1,4 +1,5 @@
 # Hi there! It's Laia 👋
+![LaietiMcLeanPix](https://user-images.githubusercontent.com/92211599/159166384-d0bacc54-cac8-4052-a8b2-261d2e6f32d1.png)
 
 ## About me
 
