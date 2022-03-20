@@ -1,4 +1,4 @@
-# Hi there! My real name is Laia Marco 👋
+# Hi there! It's Laia 👋
 
 ## About me
 
