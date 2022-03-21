@@ -15,4 +15,4 @@ I'm capable, energetic and skilled 🧑🏼‍🚀
 
 👍Check out my resume →  https://my-cv-react-alpha.vercel.app/
 
-✅LinkedIn → https://www.linkedin.com/in/laiamarcodelprado/
+✅ [Linkedin](https://www.linkedin.com/in/laiamarcodelprado/)
