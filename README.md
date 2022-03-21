@@ -13,6 +13,6 @@ I'm capable, energetic and skilled 🧑🏼‍🚀
 
 😊I'm passionate about professional challenges and I never give up my goals!
 
-👍Check out my resume →  https://my-cv-react-alpha.vercel.app/
+👍[Check out my resume](https://my-cv-react-alpha.vercel.app/)
 
 ✅ [Linkedin](https://www.linkedin.com/in/laiamarcodelprado/)
