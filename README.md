@@ -21,7 +21,7 @@ I am currently working on my carrer change as Front end Developer👩🏻‍💻
 <br />
 <div align="center">
 🚀Day after day I keep the desire of learning and there is just one thing that I know for sure: 
-I'm capable, energetic and skilled 🧑🏼‍🚀
+  I'm <b>capable</b>, <b>energetic</b> and <b>skilled</b> 🧑🏼‍🚀
 </div>
 <br />
 
