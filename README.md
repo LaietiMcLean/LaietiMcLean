@@ -6,12 +6,10 @@
 <div align="center">
   
   
-![](https://komarev.com/ghpvc/?username=LaietiMcLean&color=ff69b4)
+![](https://komarev.com/ghpvc/?username=LaietiMcLean&color=ff69b4) [![wakatime](https://wakatime.com/badge/user/655f1b4b-95a5-4a57-8742-997c91c56d4d/project/513b5971-68cb-4a27-b7e2-5dd29378b60d.svg)](https://wakatime.com/badge/user/655f1b4b-95a5-4a57-8742-997c91c56d4d/project/513b5971-68cb-4a27-b7e2-5dd29378b60d)
   
   
 </div>
-
-
 
 <h2 align="center"> About me </h2>
 <div align="center">
