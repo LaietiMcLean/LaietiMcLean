@@ -31,6 +31,7 @@ I am currently working on my carrer change as Front end Developer👩🏻‍💻
   <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
   <a href="https://www.json.org/json-en.html" target="_blank"> <img src="https://www.svgrepo.com/show/353943/json.svg" alt="json" width="40" height="40"/></a>
+  <a href="https://www.npmjs.com/" target="_blank"> <img src="https://www.svgrepo.com/show/373933/npm.svg" alt="npm" width="40" height="40"/></a>
   <a href="https://git-scm.com/" target="_blank"> <img src="https://www.svgrepo.com/show/373623/git.svg" alt="git" width="40" height="40"/></a>
   <a href="https://code.visualstudio.com/" target="_blank"> <img src="https://www.svgrepo.com/show/354522/visual-studio-code.svg" alt="vsc" width="40" height="40"/></a>
 </p>  
