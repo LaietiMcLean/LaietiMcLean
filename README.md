@@ -51,14 +51,14 @@
  
 <h4 align="center"> Something else... </h4>
 <p align="center">
-  😊I'm passionate about professional challenges and I never give up my goals!💪
+  😊I'm passionate about professional challenges💪
 </p>
 
-<div align="center">
+<!--<div align="center">
  
   👍 [Check out my resume](https://my-cv-react-alpha.vercel.app/)
   
-</div>
+</div>-->
 
 <p align="center">
   <a href="https://www.linkedin.com/in/laiamarcodelprado/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="laiamarcodelprado" height="30" width="40" /></a>
