@@ -13,13 +13,11 @@
 
 <h2 align="center"> About me </h2>
 <div align="center">
-👩🏻‍🏫After years of training in communication & marketing issues, 
-I am currently working on my carrer change as Front end Developer👩🏻‍💻   
+👩🏻‍🏫Front End Developer and hard-working, with communications and marketing skills👩🏻‍💻   
 <div align="center">
 <br />
 <div align="center">
-🚀Day after day I keep the desire of learning and there is just one thing that I know for sure: 
-  I'm <b>capable</b>, <b>energetic</b> and <b>skilled</b> 🧑🏼‍🚀
+🚀<b>capable</b>, <b>energetic</b> and <b>skilled</b>🧑🏼‍🚀
 </div>
 <br />
 
