@@ -13,7 +13,7 @@
 
 <h2 align="center"> About me </h2>
 <div align="center">
-👩🏻‍🏫Front End Developer and hard-working, with communications and marketing skills👩🏻‍💻   
+👩🏻‍🏫Front End Developer and hard-working, with communications and design skills👩🏻‍💻   
 <div align="center">
 <br />
 <div align="center">
